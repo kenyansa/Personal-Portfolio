@@ -21,7 +21,7 @@
   p {
     text-align:left;
   }
-  #footer {
+  .footer {
     display: block;
   }
   .fa-facebook {
@@ -33,4 +33,3 @@
     background: #55ACEE;
     color: white;
   }
-  

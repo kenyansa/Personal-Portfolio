@@ -21,3 +21,6 @@
   p {
     text-align:left;
   }
+  footer {
+    display: block;
+  }

@@ -24,6 +24,15 @@
   .footer {
     display: block;
   }
+  #email {
+    border-radius: 10px;
+  }
+  #firstname{
+    border-radius: 10px;
+  }
+  #lastname {
+    border-radius: 10px;
+  }
   .fa-facebook {
     background: #3B5998;
     color: white;
